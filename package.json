@@ -1,0 +1,15 @@
+{
+  "name": "express-checkpoints",
+  "version": "1.0.0",
+  "description": "gomycode",
+  "main": "src/index.js",
+  "scripts": {
+    "run": "npm install & nodemon src/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "nodemon": "^2.0.6"
+  }
+}
